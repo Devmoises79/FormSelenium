@@ -69,4 +69,6 @@ Tem também um botão de envio. Tudo bem simples, só pra praticar mesmo. Se des
 - Como pensar em pequenas automações no dia a dia
 
 
+## Autor: [@Devmoises79] 👨🏾‍💻☕
+
 
