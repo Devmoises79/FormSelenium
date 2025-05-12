@@ -68,6 +68,5 @@ Tem também um botão de envio. Tudo bem simples, só pra praticar mesmo. Se des
 
 - Como pensar em pequenas automações no dia a dia
 
-## ⚠️ Dica extra
-Aqui usei time.sleep() só pra dar tempo do navegador carregar as coisas antes de agir. Mas se quiser deixar o código mais pro, pode usar o WebDriverWait do Selenium.
+
 
